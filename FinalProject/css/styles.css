@@ -1,0 +1,25 @@
+﻿body {
+    background-color:#aaac86;
+    font-family: Calibri, sans-serif;
+}
+
+#DivWrapper
+{
+    width:96%;
+    margin:auto;
+}
+
+.contactsTable
+{
+    width:80%;
+    border:2px solid rgb(0, 148, 255);
+    background-color:rgba(0, 148, 255, 0.4);
+    margin:auto;
+    display:block;
+    box-shadow:5px 5px 5px rgb(0, 0, 0);
+}
+
+.contactsTable td
+{
+    border: 1px solid black;
+}

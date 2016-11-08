@@ -1,0 +1,12 @@
+C:\Users\Dylan\Desktop\TechAcademy\C#\FinalProject\FinalProject\bin\FinalProject.dll.config
+C:\Users\Dylan\Desktop\TechAcademy\C#\FinalProject\FinalProject\bin\FinalProject.dll
+C:\Users\Dylan\Desktop\TechAcademy\C#\FinalProject\FinalProject\bin\FinalProject.pdb
+C:\Users\Dylan\Desktop\TechAcademy\C#\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Users\Dylan\Desktop\TechAcademy\C#\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
+C:\Users\Dylan\Desktop\TechAcademy\C#\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\TechAcademy\StudentWork\C#\FinalProject\FinalProject\bin\FinalProject.dll.config
+C:\Users\Dylan\Desktop\TechAcademy\StudentWork\C#\FinalProject\FinalProject\bin\FinalProject.dll
+C:\Users\Dylan\Desktop\TechAcademy\StudentWork\C#\FinalProject\FinalProject\bin\FinalProject.pdb
+C:\Users\Dylan\Desktop\TechAcademy\StudentWork\C#\FinalProject\FinalProject\obj\Debug\FinalProject.csprojResolveAssemblyReference.cache
+C:\Users\Dylan\Desktop\TechAcademy\StudentWork\C#\FinalProject\FinalProject\obj\Debug\FinalProject.dll
+C:\Users\Dylan\Desktop\TechAcademy\StudentWork\C#\FinalProject\FinalProject\obj\Debug\FinalProject.pdb
